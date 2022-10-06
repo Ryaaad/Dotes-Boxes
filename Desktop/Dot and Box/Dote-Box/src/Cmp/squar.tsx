@@ -4,7 +4,7 @@ import { useEffect } from "react";
  
 
 interface props{
-  id:number;
+  id:number
 }
 const Square:React.FC<props> = (props) => {
 
